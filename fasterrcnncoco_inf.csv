@@ -1,0 +1,2 @@
+model,average inf time,average mAP,total inf time
+fasterrcnn,68.5442156791687,0.4888272033071869,87736.59606933594
